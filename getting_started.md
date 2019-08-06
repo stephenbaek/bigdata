@@ -1,4 +1,5 @@
 # Getting Started
+(TODO: Add some screenshots!)
 
 ## 1. Introduction to Git
 ### 1.1. What is Git?
@@ -32,7 +33,16 @@ I strongly encourage you to read them all before to move forward:
 - https://guides.github.com/activities/hello-world/
 
 ### 1.2. Install Git (Windows Only)
-For other operating systems, including Ma
+For other operating systems, including Mac OS X and Linux, Git is readily available and you don't have to install anything. (TODO: not quite true. Add how to setup mac developer kit.) For Windows, you have to download Git from the Git website (https://git-scm.com/download/win) and install it. When you install Git with the Git installer downloaded from the link, simply click 'next' all the way through the end. Using default options should work just fine, unless you are an advanced user, which in this case you would probably not need to read this tutorial for newbies.
+
+### 1.3. Clone a Git repository
+Once you have the git installed (Windows), find `Git Bash` under `Start Menu > Git`. For Mac and Linux, simply open terminal.
+In order to clone (=download) a repository, simply type
+```bash
+git clone https://github.com/stephenbaek/bigdata.git
+```
+The above code will then create a new folder named `bigdata` download all the files on this course repository in the new folder.
+
 
 ## 2. Install Python
 
@@ -41,6 +51,9 @@ For other operating systems, including Ma
 
 ### 2.2. Create a conda virtual environment for the course
 Virtual environment is <TODO: put an explanation here>
+
+Find `Anaconda Prompt` under `Start Menu > Anaconda 3 (64-bit)` and open it.
+You'll see a spooky black screen. Type the following command.
 ```bash
 conda create -n bigdata python=3.6 ipykernel
 ```
@@ -68,4 +81,13 @@ pip install pandas
 pip install matplotlib
 ```
 
+## 3. Your First Python Program
+
+Open `Anaconda Prompt` and type:
+```bash
+jupyter notebook
+```
+This will open up something that looks like a file browser on your web browser. Navigate into `bigdata` folder (See 1.3 above).
+Get into `assignments > assignment_01` folder. Run `hello_world.ipynb`. This will open up a "notebook" of codes with notes.
+Follow the instructions there and execute Python codes.
 
