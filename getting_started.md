@@ -1,5 +1,6 @@
 # Getting Started
 (TODO: Add some screenshots!)
+(TODO: Add some overview)
 
 ## 1. Introduction to Git
 ### 1.1. What is Git?
