@@ -9,7 +9,7 @@ Read [getting_started.md](getting_started.md) to configure your system for the c
 |-----------------|--------------------|---------------------------|-------------------|
 | Lecture 1<br>Lab 1 | Tuesday, August 27<br>Thursday, August 29 | **Introduction**<br><sub>Course introduction<br>What is big data?<br>Python & Numpy basics</sub>  | [slides][slide1]<br>[lab][lab1]<br>[getting started](getting_started.md) |
 | Lecture 2<br>Lab 2 | Tuesday, September 3 | **Read & Represent Data**<br><sub>Data types & formats<br>Pandas basics</sub> | [slides][slide2]<br>[lab][lab2] |
-| Lecture 3<br>Lab 3 | Thursday, September 5 | **Data Mining**<br> | [slides][slide3]<br>lab |
+| Lecture 3<br>Lab 3 | Thursday, September 5 | **Data Mining**<br><sub>Public datasets<br>Web crawling<br>Application Programming Interfaces</sub> | [slides][slide3]<br>lab |
 | Lecture 4<br>Lab 4 | Tuesday, September 10 | **Data Preprocessing - Part 1**<br> | slides<br>lab |
 | Lecture 5<br>Lab 5 | Thursday, September 12 | **Data Preprocessing - Part 2**<br> | slides<br>lab |
 | Lecture 6<br>Lab 6 | Tuesday, September 17 | **Data Preprocessing - Part 3**<br> | slides<br>lab |
