@@ -42,6 +42,7 @@ Read [getting_started.md](getting_started.md) to configure your system for the c
 
 
 
-[slide1]:https://docs.google.com/presentation/d/1SfyD_368Fi3-jp_1K0jcruSszwG55srlr9BtGz3A2OI/edit?usp=sharing
-[slide2]:https://docs.google.com/presentation/d/17HzZmXP-xWtvgPrPOptM-AEKFnGaUJSzmEiJjz784_c/edit?usp=sharing
-[lab1]:in-class-assignments/ica01
+[slide1]: https://docs.google.com/presentation/d/1SfyD_368Fi3-jp_1K0jcruSszwG55srlr9BtGz3A2OI/edit?usp=sharing
+[slide2]: https://docs.google.com/presentation/d/17HzZmXP-xWtvgPrPOptM-AEKFnGaUJSzmEiJjz784_c/edit?usp=sharing
+[lab1]: in-class-assignments/ica01/hello_world.ipynb
+[lab2]: in-class-assignments/ica02/How_to_Read_and_Represent_Data.ipynb
