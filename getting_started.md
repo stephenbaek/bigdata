@@ -59,6 +59,7 @@ Virtual environment is <TODO: put an explanation here>
 Find `Anaconda Prompt` under `Start Menu > Anaconda 3 (64-bit)` and open it.
 You'll see a spooky black screen. Type the following command.
 ```bash
+conda install nb_conda
 conda create -n bigdata python=3.6 ipykernel
 ```
 - `conda create` is a command to create a virtual environment.
@@ -96,4 +97,6 @@ jupyter notebook
 This will open up something that looks like a file browser on your web browser. Navigate into `bigdata` folder (See 1.3 above).
 Get into `assignments > assignment_01` folder. Run `hello_world.ipynb`. This will open up a "notebook" of codes with notes.
 Follow the instructions there and execute Python codes.
+
+(TODO): Make sure the kernel is set to `Python [conda env:bigdata]`
 
