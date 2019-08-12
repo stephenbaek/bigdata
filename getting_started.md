@@ -75,14 +75,16 @@ You'll see the prompt has changed to `(bigdata) H:\>` or something like that on 
 We are going to use some off-the-shelf libraries in this course.
 Installing libraries is as simple as typing `pip install <name-of-library>` in the command line.
 
-Two of the most useful libraries in this course will be `pandas` and `matplotlib`.
+Two of the most useful libraries in this course will be:
+- `numpy` is <TODO: put an explanation here>
 - `pandas` is <TODO: put an explanation here>
 - `matplotlib` is <TODO: put an explanation here>
 
 They can be installed by typing each line one at a time.
 ```bash
-pip install pandas
+pip install numpy
 pip install matplotlib
+pip install pandas
 ```
 
 ## 4. Your First Python Program
