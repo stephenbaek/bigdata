@@ -3,7 +3,11 @@
 (TODO: Add some overview)
 
 ## 1. Install-free, Hassle-free Access of the Course Materials
-(TODO: Explain Google Colab)
+If you are new to Python world, running the source codes in this course might not be terribly intuitive. But, don't worry: for those who are not familiar with Python, I made the teaching materials compatible and accessible with Google's [Colaboratory](https://colab.research.google.com)---a free Jupyter notebook environment (=Python programming/prototyping environment) that requires no setup and runs entirely on Google's cloud server. You can write and execute Python codes on Colab without having to install anything on your computer. With Google Colab, all the source codes I made for this course can be accessible from your web browser. To know more about Colab, watch this video:
+[![Get started with Google Colaboratory](http://img.youtube.com/vi/inN8seMm7UI/0.jpg)](http://www.youtube.com/watch?v=inN8seMm7UI)
+
+For each of the course materials, you can find a button that looks like this: ![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg "Open and Execute in Google Colaboratory"). Simply click the button and you will be redirected to a Colab notebook that runs exactly the same source code. Feel free to mess around with the code and run/edit/... however many times you want. No matter what you do, just remember one thing: everything you do runs on Google's server, NOT on your local machine. That is, when you need to install something, access data, etc., you will need to do it on the server, not on your local computer. You don't need to know how to actually do it at the moment, but I will walk you through this later in the course.
+
 
 ## 2. Introduction to Git
 ### 2.1. What is Git?
