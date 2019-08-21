@@ -63,7 +63,7 @@ Virtual environment is <TODO: put an explanation here>
 Find `Anaconda Prompt` under `Start Menu > Anaconda 3 (64-bit)` and open it.
 You'll see a spooky black screen. Type the following command.
 ```bash
-conda install nb_conda
+conda install nb_conda_kernels
 conda create -n bigdata python=3.6 ipykernel
 ```
 - `conda create` is a command to create a virtual environment.
