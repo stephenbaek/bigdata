@@ -10,7 +10,7 @@ Read [getting_started.md](getting_started.md) to configure your system for the c
 | Lecture 1<br>Lab 1 | Tuesday, August 27<br>Thursday, August 29 | **Introduction**<br><sub>Course introduction<br>What is big data?<br>Python & Numpy basics</sub>  | [slides][slide1]<br>[lab][lab1]<br>[getting started](getting_started.md) |
 | Lecture 2<br>Lab 2 | Tuesday, September 3<br>Thursday, September 5 | **Read & Represent Data**<br><sub>Data types & formats<br>Pandas basics</sub> | [slides][slide2]<br>[lab][lab2] |
 | Lecture 3<br>Lab 3 | Tuesday, September 10<br>Thursday, September 12 | **Data Mining**<br><sub>Public datasets<br>Web crawling<br>Application Programming Interfaces</sub> | [slides][slide3]<br>[lab][lab3] |
-| Lecture 4<br>Lab 4 | Tuesday, September 17 | **Data Preprocessing and Visualization**<br><sub></sub> | [slides][slide4]<br>lab |
+| Lecture 4<br>Lab 4 | Tuesday, September 17 | **Data Preprocessing and Visualization**<br><sub></sub> | [slides][slide4]<br>[lab][lab4] |
 |                    | Thursday, September 19 | **No Class**<br> |   |
 | Lecture 5<br>Lab 5 | Tuesday, September 24 | **Supervised Learning**<br><sub>Scikit-Learn Linear Regression</sub> | slides<br>lab |
 | Lecture 6<br>Lab 6 | Thursday, September 26 | **Supervised Learning for Big Data**<br><sub>NumPy Linear Regression</sub> | slides<br>lab |
@@ -49,3 +49,4 @@ Read [getting_started.md](getting_started.md) to configure your system for the c
 [lab1]: in-class-assignments/ica01/hello_world.ipynb
 [lab2]: in-class-assignments/ica02/How_to_Read_and_Represent_Data.ipynb
 [lab3]: in-class-assignments/ica03/Data_Mining.ipynb
+[lab4]: in-class-assignments/ica04/Data_Preprocessing_and_Visualization.ipynb
