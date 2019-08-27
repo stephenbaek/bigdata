@@ -55,8 +55,15 @@ The above code will then create a new folder named `bigdata` download all the fi
 ## 3. Install Python
 
 ### 3.1. Install Anaconda
-The installation instructions of Anaconda for different environment can be found at:
-https://docs.anaconda.com/anaconda/install/
+1. Visit [official website of Anaconda](https://www.anaconda.com).
+2. Click `Download` button on top.
+3. Scroll down to where you can select between Windows, MacOS, and Linux.
+4. Choose an operating system of your need. This will pop up two download buttons---'Python 3.7 version' and 'Python 2.7 version'
+Click '64-Bit Graphical Installer' below 'Python 3.7 version'.
+This is what we are going to use in class, and downloading different version may create some issues with syntax.
+5. Install Anaconda by running the installer. I suggest to follow the recommended settings (aka just click 'next' all the way through).
+
+For more info, see: https://docs.anaconda.com/anaconda/install/
 
 ### 3.2. Create a conda virtual environment for the course
 Virtual environment is <TODO: put an explanation here>
