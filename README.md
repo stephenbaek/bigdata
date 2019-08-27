@@ -3,6 +3,9 @@ Course materials for ISE:4172 Big Data Analytics (Prof. [Stephen Baek](http://ww
 
 Read [getting_started.md](getting_started.md) to configure your system for the course materials.
 
+## Syllabus
+See ICON. (Iowa students only)
+
 ## Schedule
 
 | **Index**       | **Date**           | **Description**           | **Materials**     |
