@@ -12,11 +12,11 @@ Read [getting_started.md](getting_started.md) to configure your system for the c
 | Lecture 3<br>Lab 3 | Tuesday, September 10<br>Thursday, September 12 | **Data Mining**<br><sub>Public datasets<br>Web crawling<br>Application Programming Interfaces</sub> | [slides][slide3]<br>[lab][lab3] |
 | Lecture 4<br>Lab 4 | Tuesday, September 17 | **Data Preprocessing and Visualization**<br><sub></sub> | [slides][slide4]<br>[lab][lab4] |
 |                    | Thursday, September 19 | **No Class**<br> |   |
-| Lecture 5<br>Lab 5 | Tuesday, September 24 | **Supervised Learning**<br><sub>Scikit-Learn Linear Regression</sub> | slides<br>lab |
-| Lecture 6<br>Lab 6 | Thursday, September 26 | **Supervised Learning for Big Data**<br><sub>NumPy Linear Regression</sub> | slides<br>lab |
-| Lecture 7<br>Lab 7 | Tuesday, October 1 | **Distance and Similarity**<br><sub></sub> | slides<br>lab |
-| Lecture 8<br>Lab 8 | Thursday, October 3 | **K-Nearest Neighbors for Big Data**<br><sub></sub> | slides<br>lab |
-| Lecture 9<br>Lab 9 | Tuesday, October 8 | **Nystrom Approximation**<br><sub></sub> | slides<br>lab |
+| Lecture 5<br>Lab 5 | Tuesday, September 24 | **Supervised Learning**<br><sub>Scikit-Learn Linear Regression</sub> | [slides][slide5]<br>lab |
+| Lecture 6<br>Lab 6 | Thursday, September 26 | **Supervised Learning for Big Data**<br><sub>NumPy Linear Regression</sub> | [slides][slide6]<br>lab |
+| Lecture 7<br>Lab 7 | Tuesday, October 1 | **Distance and Similarity**<br><sub></sub> | [slides][slide7]<br>lab |
+| Lecture 8<br>Lab 8 | Thursday, October 3 | **K-Nearest Neighbors for Big Data**<br><sub></sub> | [slides][slide8]<br>lab |
+| Lecture 9<br>Lab 9 | Tuesday, October 8 | **Nystrom Approximation**<br><sub></sub> | [slides][slide9]<br>lab |
 | Lecture 10<br>Lab 10 | Thursday, October 10 | **Anomaly Detection**<br><sub></sub> | slides<br>lab |
 | Lecture 11<br>Lab 11 | Tuesday, October 15 | **Cluster Analysis**<br><sub></sub> | slides<br>lab |
 | Lecture 12<br>Lab 12 | Thursday, October 17 | **Cluster Analysis for Big Data**<br><sub></sub> | slides<br>lab |
@@ -45,7 +45,12 @@ Read [getting_started.md](getting_started.md) to configure your system for the c
 [slide2]: https://docs.google.com/presentation/d/17HzZmXP-xWtvgPrPOptM-AEKFnGaUJSzmEiJjz784_c/edit?usp=sharing
 [slide3]: https://docs.google.com/presentation/d/13A1hZwC3uXRYgGsWtFgeFVnql_Li_dgMaOJ2WXDj6t0/edit?usp=sharing
 [slide4]: https://docs.google.com/presentation/d/1ZlB6RmeJhJCugo0G3KnQFrIW_HNevgQgNR3HgwHa144/edit?usp=sharing
-[slide5]: https://docs.google.com/presentation/d/1hn3NzQweQEoY0U8sFEZscZdTU2d7SOHmmeurSUnXlNo/edit?usp=sharing
+[slide5]: https://docs.google.com/presentation/d/1lITsifhDDPl-0adEgj9ATllTYIT1heydzcoewNvURA8/edit?usp=sharing
+[slide6]: https://docs.google.com/presentation/d/14Xe7Ytn9NDohIUgp9OfWujRlo9Rq_SrseFnwSGJUouM/edit?usp=sharing
+[slide7]: https://docs.google.com/presentation/d/1A3-7-QStxauVxAGKTYfw7LN3rBHc12kLiCWNlSMzNuk/edit?usp=sharing
+[slide8]: https://docs.google.com/presentation/d/149sFpxqhKDFvCTgFWUN-7NouW1f16xgij1yowhpGt74/edit?usp=sharing
+[slide9]: https://docs.google.com/presentation/d/1rPfl8ZCjSRNOt0jmfWaXIwIWsqz6xoZWCTVSYCWfj2Y/edit?usp=sharing
+
 [lab1]: in-class-assignments/ica01/hello_world.ipynb
 [lab2]: in-class-assignments/ica02/How_to_Read_and_Represent_Data.ipynb
 [lab3]: in-class-assignments/ica03/Data_Mining.ipynb
