@@ -55,7 +55,8 @@ The above code will then create a new folder named `bigdata` download all the fi
 ## 3. Install Python
 
 ### 3.1. Install Anaconda
-<TODO: put an explanation here>
+The installation instructions of Anaconda for different environment can be found at:
+https://docs.anaconda.com/anaconda/install/
 
 ### 3.2. Create a conda virtual environment for the course
 Virtual environment is <TODO: put an explanation here>
