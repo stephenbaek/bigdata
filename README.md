@@ -53,7 +53,7 @@ See ICON. (Iowa students only)
 [slide8]: https://docs.google.com/presentation/d/149sFpxqhKDFvCTgFWUN-7NouW1f16xgij1yowhpGt74/edit?usp=sharing
 [slide9]: https://docs.google.com/presentation/d/1rPfl8ZCjSRNOt0jmfWaXIwIWsqz6xoZWCTVSYCWfj2Y/edit?usp=sharing
 
-[lab1]: in-class-assignments/ica01/hello_world.ipynb
-[lab2]: in-class-assignments/ica02/How_to_Read_and_Represent_Data.ipynb
-[lab3]: in-class-assignments/ica03/Data_Mining.ipynb
-[lab4]: in-class-assignments/ica04/Data_Preprocessing_and_Visualization.ipynb
+[lab1]: https://colab.research.google.com/github/stephenbaek/bigdata/blob/master/in-class-assignments/ica01/hello_world.ipynb
+[lab2]: https://colab.research.google.com/github/stephenbaek/bigdata/blob/master/in-class-assignments/ica02/How_to_Read_and_Represent_Data.ipynb
+[lab3]: https://colab.research.google.com/github/stephenbaek/bigdata/blob/master/in-class-assignments/ica03/Data_Mining.ipynb
+[lab4]: https://colab.research.google.com/github/stephenbaek/bigdata/blob/master/in-class-assignments/ica04/Data_Preprocessing_and_Visualization.ipynb
