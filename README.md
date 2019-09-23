@@ -14,25 +14,24 @@ See ICON. (Iowa students only)
 | Lecture 3<br>Lab 3 | Tuesday, September 10<br>Thursday, September 12 | **Data Mining**<br><sub>Public datasets<br>Web crawling<br>Application Programming Interfaces</sub> | [slides][slide3]<br>[lab][lab3] |
 | Lecture 4<br>Lab 4 | Tuesday, September 17 | **Data Preprocessing and Visualization**<br><sub>Data cleaning<br>Sampling<br>Feature extraction (preview)<br>Dimension reduction (preview)</sub> | [slides][slide4]<br>[lab][lab4] |
 |                    | Thursday, September 19 | **No Class**<br> |   |
-| Lecture 5<br>Lab 5 | Tuesday, September 24 | **Supervised Learning**(!)<br><sub>Scikit-Learn Linear Regression</sub> | [slides][slide5]<br>lab |
-| Lecture 6<br>Lab 6 | Thursday, September 26 | **Supervised Learning for Big Data**<br><sub>NumPy Linear Regression</sub> | [slides][slide6]<br>lab |
-| Lecture 7<br>Lab 7 | Tuesday, October 1 | **Distance and Similarity**<br><sub></sub> | [slides][slide7]<br>lab |
-| Lecture 8<br>Lab 8 | Thursday, October 3 | **K-Nearest Neighbors for Big Data**<br><sub></sub> | [slides][slide8]<br>lab |
-| Lecture 9<br>Lab 9 | Tuesday, October 8 | **Nystrom Approximation**<br><sub></sub> | [slides][slide9]<br>lab |
-| Lecture 10<br>Lab 10 | Thursday, October 10 | **Anomaly Detection**<br><sub></sub> | slides<br>lab |
-| Lecture 11<br>Lab 11 | Tuesday, October 15 | **Cluster Analysis**<br><sub></sub> | slides<br>lab |
-| Lecture 12<br>Lab 12 | Thursday, October 17 | **Cluster Analysis for Big Data**<br><sub></sub> | slides<br>lab |
-| Lecture 13<br>Lab 13 | Tuesday, October 22 | **Introduction to Neural Networks**<br><sub></sub> | slides<br>lab |
+| Lecture 5<br>Lab 5 | Tuesday, September 24<br>Thursday, September 26 | **Supervised Learning**(!)<br><sub>Hypothesis<br>Linear regression<br>Complexity</sub> | [slides #1][slide5-1]<br>[slides #2][slide5-2]<br>lab |
+| Lecture 6<br>Lab 6 | Tuesday, October 1 | **Distance and Similarity**<br><sub></sub> | [slides][slide6]<br>lab |
+| Lecture 7<br>Lab 7 | Thursday, October 3 | **K-Nearest Neighbors for Big Data**<br><sub></sub> | [slides][slide7]<br>lab |
+| Lecture 8<br>Lab 8 | Tuesday, October 8 | **Nystrom Approximation**<br><sub></sub> | [slides][slide8]<br>lab |
+| Lecture 9<br>Lab 9 | Thursday, October 10 | **Anomaly Detection**<br><sub></sub> | slides<br>lab |
+| Lecture 10<br>Lab 10 | Tuesday, October 15 | **Cluster Analysis**<br><sub></sub> | slides<br>lab |
+| Lecture 11<br>Lab 11 | Thursday, October 17 | **Cluster Analysis for Big Data**<br><sub></sub> | slides<br>lab |
+| Lecture 12<br>Lab 12 | Tuesday, October 22 | **Introduction to Neural Networks**<br><sub></sub> | slides<br>lab |
 |                    |                     | Final Project Assigned                |               |
-| Lecture 14<br>Lab 14 | Thursday, October 24 | **Deep Neural Networks**<br><sub></sub> | slides<br>lab |
+| Lecture 13<br>Lab 13 | Thursday, October 24 | **Deep Neural Networks**<br><sub></sub> | slides<br>lab |
 |                    | Tuesday, October 29 | **No Class**<br> |  |
 |                    | Thursday, October 31 | **No Class**<br> |  |
-| Lecture 15<br>Lab 15 | Tuesday, November 5 | **Dimensionality Reduction**<br><sub></sub> | slides<br>lab |
-| Lecture 16<br>Lab 16 | Thursday, November 7 | **Dimensionality Reduction for Big Data**<br><sub></sub> | slides<br>lab |
-| Lecture 17<br>Lab 17 | Tuesday, November 12 | **Model Selection**<br><sub></sub> | slides<br>lab |
-| Lecture 18 | Thursday, November 14 | **Hadoop**<br><sub></sub> | slides |
-| Lecture 19 | Tuesday, November 19 | **MapReduce**<br><sub></sub> | slides |
-| Lecture 20 | Thursday, November 21 | **Pig and Hive**<br><sub></sub> | slides |
+| Lecture 14<br>Lab 14 | Tuesday, November 5 | **Dimensionality Reduction**<br><sub></sub> | slides<br>lab |
+| Lecture 15<br>Lab 15 | Thursday, November 7 | **Dimensionality Reduction for Big Data**<br><sub></sub> | slides<br>lab |
+| Lecture 16<br>Lab 16 | Tuesday, November 12 | **Model Selection**<br><sub></sub> | slides<br>lab |
+| Lecture 17 | Thursday, November 14 | **Hadoop**<br><sub></sub> | slides |
+| Lecture 18 | Tuesday, November 19 | **MapReduce**<br><sub></sub> | slides |
+| Lecture 19 | Thursday, November 21 | **Pig and Hive**<br><sub></sub> | slides |
 |                    | Tuesday, November 26 | **Thanksgiving Recess**<br> |  |
 |                    | Tuesday, November 28 | **Thanksgiving Recess**<br> |  |
 |                    | Tuesday, December 3 | **Final Project Presentation**<br> |  |
@@ -47,13 +46,14 @@ See ICON. (Iowa students only)
 [slide2]: https://docs.google.com/presentation/d/17HzZmXP-xWtvgPrPOptM-AEKFnGaUJSzmEiJjz784_c/edit?usp=sharing
 [slide3]: https://docs.google.com/presentation/d/13A1hZwC3uXRYgGsWtFgeFVnql_Li_dgMaOJ2WXDj6t0/edit?usp=sharing
 [slide4]: https://docs.google.com/presentation/d/1ZlB6RmeJhJCugo0G3KnQFrIW_HNevgQgNR3HgwHa144/edit?usp=sharing
-[slide5]: https://docs.google.com/presentation/d/1lITsifhDDPl-0adEgj9ATllTYIT1heydzcoewNvURA8/edit?usp=sharing
-[slide6]: https://docs.google.com/presentation/d/14Xe7Ytn9NDohIUgp9OfWujRlo9Rq_SrseFnwSGJUouM/edit?usp=sharing
-[slide7]: https://docs.google.com/presentation/d/1A3-7-QStxauVxAGKTYfw7LN3rBHc12kLiCWNlSMzNuk/edit?usp=sharing
-[slide8]: https://docs.google.com/presentation/d/149sFpxqhKDFvCTgFWUN-7NouW1f16xgij1yowhpGt74/edit?usp=sharing
-[slide9]: https://docs.google.com/presentation/d/1rPfl8ZCjSRNOt0jmfWaXIwIWsqz6xoZWCTVSYCWfj2Y/edit?usp=sharing
+[slide5-1]: https://docs.google.com/presentation/d/1lITsifhDDPl-0adEgj9ATllTYIT1heydzcoewNvURA8/edit?usp=sharing
+[slide5-2]: https://docs.google.com/presentation/d/14Xe7Ytn9NDohIUgp9OfWujRlo9Rq_SrseFnwSGJUouM/edit?usp=sharing
+[slide6]: https://docs.google.com/presentation/d/1A3-7-QStxauVxAGKTYfw7LN3rBHc12kLiCWNlSMzNuk/edit?usp=sharing
+[slide7]: https://docs.google.com/presentation/d/149sFpxqhKDFvCTgFWUN-7NouW1f16xgij1yowhpGt74/edit?usp=sharing
+[slide8]: https://docs.google.com/presentation/d/1rPfl8ZCjSRNOt0jmfWaXIwIWsqz6xoZWCTVSYCWfj2Y/edit?usp=sharing
 
 [lab1]: https://colab.research.google.com/github/stephenbaek/bigdata/blob/master/in-class-assignments/ica01/hello_world.ipynb
 [lab2]: https://colab.research.google.com/github/stephenbaek/bigdata/blob/master/in-class-assignments/ica02/How_to_Read_and_Represent_Data.ipynb
 [lab3]: https://colab.research.google.com/github/stephenbaek/bigdata/blob/master/in-class-assignments/ica03/Data_Mining.ipynb
 [lab4]: https://colab.research.google.com/github/stephenbaek/bigdata/blob/master/in-class-assignments/ica04/Data_Preprocessing_and_Visualization.ipynb
+[lab5]: https://colab.research.google.com/github/stephenbaek/bigdata/blob/master/in-class-assignments/ica05/Supervised_Learning.ipynb
