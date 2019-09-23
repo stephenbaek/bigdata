@@ -14,7 +14,7 @@ See ICON. (Iowa students only)
 | Lecture 3<br>Lab 3 | Tuesday, September 10<br>Thursday, September 12 | **Data Mining**<br><sub>Public datasets<br>Web crawling<br>Application Programming Interfaces</sub> | [slides][slide3]<br>[lab][lab3] |
 | Lecture 4<br>Lab 4 | Tuesday, September 17 | **Data Preprocessing and Visualization**<br><sub>Data cleaning<br>Sampling<br>Feature extraction (preview)<br>Dimension reduction (preview)</sub> | [slides][slide4]<br>[lab][lab4] |
 |                    | Thursday, September 19 | **No Class**<br> |   |
-| Lecture 5<br>Lab 5 | Tuesday, September 24<br>Thursday, September 26 | **Supervised Learning**(!)<br><sub>Hypothesis<br>Linear regression<br>Complexity</sub> | [slides #1][slide5-1]<br>[slides #2][slide5-2]<br>lab |
+| Lecture 5<br>Lab 5 | Tuesday, September 24<br>Thursday, September 26 | **Supervised Learning**(!)<br><sub>Hypothesis<br>Linear regression<br>Complexity</sub> | [slides #1][slide5-1]<br>[slides #2][slide5-2]<br>[lab][lab5] |
 | Lecture 6<br>Lab 6 | Tuesday, October 1 | **Distance and Similarity**<br><sub></sub> | [slides][slide6]<br>lab |
 | Lecture 7<br>Lab 7 | Thursday, October 3 | **K-Nearest Neighbors for Big Data**<br><sub></sub> | [slides][slide7]<br>lab |
 | Lecture 8<br>Lab 8 | Tuesday, October 8 | **Nystrom Approximation**<br><sub></sub> | [slides][slide8]<br>lab |
