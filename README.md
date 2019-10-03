@@ -15,7 +15,7 @@ See ICON. (Iowa students only)
 | Lecture 4<br>Lab 4 | Tuesday, September 17 | **Data Preprocessing and Visualization**<br><sub>Data cleaning<br>Sampling<br>Feature extraction (preview)<br>Dimension reduction (preview)</sub> | [slides][slide4]<br>[lab][lab4] |
 |                    | Thursday, September 19 | **No Class**<br> |   |
 | Lecture 5<br>Lab 5 | Tuesday, September 24<br>Thursday, September 26<br>Tuesday, October 1 | **Supervised Learning**<br><sub>Hypothesis<br>Linear regression<br>Complexity</sub> | [slides #1][slide5-1]<br>[slides #2][slide5-2]<br>[lab][lab5] |
-| Lecture 6<br>Lab 6 | Thursday, October 3<br>Tuesday, October 8<br>Thursday, October 10  | **Distance and Similarity**.<br><sub>K-nearest neighbors<br>Distance functions<br>Nystrom approximation</sub> | [slides #1][slide6-1]<br>[slides #2][slide6-2]<br>[slides #3][slide6-3]<br>lab |
+| Lecture 6<br>Lab 6 | Thursday, October 3<br>Tuesday, October 8<br>Thursday, October 10  | **Distance and Similarity**.<br><sub>K-nearest neighbors<br>Distance functions<br>Nystrom approximation</sub> | [slides #1][slide6-1]<br>[slides #2][slide6-2]<br>[slides #3][slide6-3]<br>[lab][lab6] |
 | Lecture 7<br>Lab 7 | Tuesday, October 15<br>Thursday, October 17 | **Cluster Analysis**<br><sub></sub> | slides #1<br>slides #2<br>lab |
 | Lecture 8<br>Lab 8 | Tuesday, October 22 | **Introduction to Neural Networks**<br><sub></sub> | slides<br>lab |
 |                    |                     | Final Project Assigned                |               |
@@ -53,3 +53,4 @@ See ICON. (Iowa students only)
 [lab3]: https://colab.research.google.com/github/stephenbaek/bigdata/blob/master/in-class-assignments/ica03/Data_Mining.ipynb
 [lab4]: https://colab.research.google.com/github/stephenbaek/bigdata/blob/master/in-class-assignments/ica04/Data_Preprocessing_and_Visualization.ipynb
 [lab5]: https://colab.research.google.com/github/stephenbaek/bigdata/blob/master/in-class-assignments/ica05/Supervised_Learning.ipynb
+[lab6]: https://colab.research.google.com/github/stephenbaek/bigdata/blob/master/in-class-assignments/ica06/Distance_and_Similarity.ipynb
