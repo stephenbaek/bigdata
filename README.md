@@ -14,8 +14,8 @@ See ICON. (Iowa students only)
 | Lecture 3<br>Lab 3 | Tuesday, September 10<br>Thursday, September 12 | **Data Mining**<br><sub>Public datasets<br>Web crawling<br>Application Programming Interfaces</sub> | [slides][slide3]<br>[lab][lab3] |
 | Lecture 4<br>Lab 4 | Tuesday, September 17 | **Data Preprocessing and Visualization**<br><sub>Data cleaning<br>Sampling<br>Feature extraction (preview)<br>Dimension reduction (preview)</sub> | [slides][slide4]<br>[lab][lab4] |
 |                    | Thursday, September 19 | **No Class**<br> |   |
-| Lecture 5<br>Lab 5 | Tuesday, September 24<br>Thursday, September 26 | **Supervised Learning**<br><sub>Hypothesis<br>Linear regression<br>Complexity</sub> | [slides #1][slide5-1]<br>[slides #2][slide5-2]<br>[lab][lab5] |
-| Lecture 6<br>Lab 6 | Tuesday, October 1<br>Thursday, October 3<br>Tuesday, October 8<br>Thursday, October 10  | **Distance and Similarity**.<br><sub>K-nearest neighbors<br>Distance functions<br>Nystrom approximation</sub> | [slides #1][slide6-1]<br>[slides #1][slide6-2]<br>[slides #1][slide6-3]<br>lab |
+| Lecture 5<br>Lab 5 | Tuesday, September 24<br>Thursday, September 26<br>Tuesday, October 1 | **Supervised Learning**<br><sub>Hypothesis<br>Linear regression<br>Complexity</sub> | [slides #1][slide5-1]<br>[slides #2][slide5-2]<br>[lab][lab5] |
+| Lecture 6<br>Lab 6 | Thursday, October 3<br>Tuesday, October 8<br>Thursday, October 10  | **Distance and Similarity**.<br><sub>K-nearest neighbors<br>Distance functions<br>Nystrom approximation</sub> | [slides #1][slide6-1]<br>[slides #1][slide6-2]<br>[slides #1][slide6-3]<br>lab |
 | Lecture 7<br>Lab 7 | Tuesday, October 15<br>Thursday, October 17 | **Cluster Analysis**<br><sub></sub> | slides #1<br>slides #2<br>lab |
 | Lecture 8<br>Lab 8 | Tuesday, October 22 | **Introduction to Neural Networks**<br><sub></sub> | slides<br>lab |
 |                    |                     | Final Project Assigned                |               |
