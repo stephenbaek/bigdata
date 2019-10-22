@@ -16,7 +16,7 @@ See ICON. (Iowa students only)
 |                    | Thursday, September 19 | **No Class**<br> |   |
 | Lecture 5<br>Lab 5 | Tuesday, September 24<br>Thursday, September 26<br>Tuesday, October 1 | **Supervised Learning**<br><sub>Hypothesis<br>Linear regression<br>Complexity</sub> | [slides #1][slide5-1]<br>[slides #2][slide5-2]<br>[lab][lab5] |
 | Lecture 6<br>Lab 6 | Thursday, October 3<br>Tuesday, October 8<br>Thursday, October 10  | **Distance and Similarity**<br><sub>K-nearest neighbors<br>Distance functions<br>Nystrom approximation</sub> | [slides #1][slide6-1]<br>[slides #2][slide6-2]<br>[slides #3][slide6-3]<br>[lab][lab6]<br>[Nystrom][lab6-3] |
-| Lecture 7<br>Lab 7 | Tuesday, October 15<br>Thursday, October 17 | **Cluster Analysis**.<br><sub></sub> | [slides #1][slide7-1]<br>[slides #2][slide7-2] |
+| Lecture 7<br>Lab 7 | Tuesday, October 15<br>Thursday, October 17 | **Cluster Analysis**.<br><sub></sub> | [slides #1][slide7-1]<br>[slides #2][slide7-2]<br>[lab][lab7] |
 | Lecture 8<br>Lab 8 | Tuesday, October 22 | **Introduction to Neural Networks**<br><sub></sub> | slides<br>lab |
 |                    |                     | Final Project Assigned                |               |
 | Lecture 9<br>Lab 9 | Thursday, October 24 | **Deep Neural Networks**<br><sub></sub> | slides<br>lab |
@@ -57,3 +57,4 @@ See ICON. (Iowa students only)
 [lab5]: https://colab.research.google.com/github/stephenbaek/bigdata/blob/master/in-class-assignments/ica05/Supervised_Learning.ipynb
 [lab6]: https://colab.research.google.com/github/stephenbaek/bigdata/blob/master/in-class-assignments/ica06/Distance_and_Similarity.ipynb
 [lab6-3]: https://colab.research.google.com/github/stephenbaek/bigdata/blob/master/in-class-assignments/ica06/Nystrom_Base.ipynb
+[lab7]: https://colab.research.google.com/github/stephenbaek/bigdata/blob/master/in-class-assignments/ica07/Cluster_Analysis.ipynb
