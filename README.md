@@ -21,9 +21,9 @@ See ICON. (Iowa students only)
 |                    | Tuesday, October 29 | **No Class**<br> |  |
 |                    | Thursday, October 31 | **No Class**<br> |  |
 | Lecture 8<br>Lab 8 | Tuesday, November 5<br>Thursday, November 7<br>Tuesday, November 12 | **Neural Networks**<br><sub>Introduction to neural networks<br>Backpropagation<br>Deep neural networks</sub> | [slides #1][slide8-1]<br>slides #2<br>lab |
-| Lecture 10<br>Lab 10 | Thursday, November 14 | **Dimensionality Reduction**<br><sub></sub> | slides<br>lab |
-| Lecture 11<br>Lab 11 | Tuesday, November 19 | **Dimensionality Reduction for Big Data**<br><sub></sub> | slides<br>lab |
-| Lecture 12<br>Lab 12 | Thursday, November 21 | **Model Selection**<br><sub></sub> | slides<br>lab |
+| Lecture 9<br>Lab 9 | Thursday, November 14 | **Dimensionality Reduction**<br><sub></sub> | slides<br>lab |
+| Lecture 10<br>Lab 10 | Tuesday, November 19 | **Dimensionality Reduction for Big Data**<br><sub></sub> | slides<br>lab |
+| Lecture 11<br>Lab 11 | Thursday, November 21 | **Model Selection**<br><sub></sub> | slides<br>lab |
 |                    | Tuesday, November 26 | **Thanksgiving Recess**<br> |  |
 |                    | Thursday, November 28 | **Thanksgiving Recess**<br> |  |
 |                    | Tuesday, December 3 | **Final Project Presentation**<br> |  |
