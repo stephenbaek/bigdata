@@ -15,23 +15,19 @@ See ICON. (Iowa students only)
 | Lecture 4<br>Lab 4 | Tuesday, September 17 | **Data Preprocessing and Visualization**<br><sub>Data cleaning<br>Sampling<br>Feature extraction (preview)<br>Dimension reduction (preview)</sub> | [slides][slide4]<br>[lab][lab4] |
 |                    | Thursday, September 19 | **No Class**<br> |   |
 | Lecture 5<br>Lab 5 | Tuesday, September 24<br>Thursday, September 26<br>Tuesday, October 1 | **Supervised Learning**<br><sub>Hypothesis<br>Linear regression<br>Complexity</sub> | [slides #1][slide5-1]<br>[slides #2][slide5-2]<br>[lab][lab5] |
-| Lecture 6<br>Lab 6 | Thursday, October 3<br>Tuesday, October 8<br>Thursday, October 10  | **Distance and Similarity**<br><sub>K-nearest neighbors<br>Distance functions<br>Nystrom approximation</sub> | [slides #1][slide6-1]<br>[slides #2][slide6-2]<br>[slides #3][slide6-3]<br>[lab][lab6]<br>[Nystrom][lab6-3] |
-| Lecture 7<br>Lab 7 | Tuesday, October 15<br>Thursday, October 17 | **Cluster Analysis**.<br><sub></sub> | [slides #1][slide7-1]<br>[slides #2][slide7-2]<br>[lab][lab7] |
-| Lecture 8<br>Lab 8 | Tuesday, October 22 | **Introduction to Neural Networks**<br><sub></sub> | slides<br>lab |
+| Lecture 6<br>Lab 6 | Thursday, October 3<br>Tuesday, October 8<br>Thursday, October 10<br>Tuesday, October 15<  | **Distance and Similarity**<br><sub>K-nearest neighbors<br>Distance functions<br>Nystrom approximation</sub> | [slides #1][slide6-1]<br>[slides #2][slide6-2]<br>[slides #3][slide6-3]<br>[lab][lab6]<br>[Nystrom][lab6-3] |
+| Lecture 7<br>Lab 7 | Thursday, October 17<br>Tuesday, October 22<br>Thursday, October 24 | **Cluster Analysis**.<br><sub></sub> | [slides #1][slide7-1]<br>[slides #2][slide7-2]<br>[lab][lab7] |
 |                    |                     | Final Project Assigned                |               |
-| Lecture 9<br>Lab 9 | Thursday, October 24 | **Deep Neural Networks**<br><sub></sub> | slides<br>lab |
 |                    | Tuesday, October 29 | **No Class**<br> |  |
 |                    | Thursday, October 31 | **No Class**<br> |  |
-| Lecture 10<br>Lab 10 | Tuesday, November 5 | **Dimensionality Reduction**<br><sub></sub> | slides<br>lab |
-| Lecture 11<br>Lab 11 | Thursday, November 7 | **Dimensionality Reduction for Big Data**<br><sub></sub> | slides<br>lab |
-| Lecture 12<br>Lab 12 | Tuesday, November 12 | **Model Selection**<br><sub></sub> | slides<br>lab |
-| Lecture 13 | Thursday, November 14 | **Hadoop**<br><sub></sub> | slides |
-| Lecture 14 | Tuesday, November 19 | **MapReduce**<br><sub></sub> | slides |
-| Lecture 15 | Thursday, November 21 | **Pig and Hive**<br><sub></sub> | slides |
+| Lecture 8<br>Lab 8 | Tuesday, November 5<br>Thursday, November 7<br>Tuesday, November 12 | **Neural Networks**<br><sub>Introduction to neural networks<br>Backpropagation<br>Deep neural networks</sub> | [slides #1][slide8-1]<br>slides #2<br>lab |
+| Lecture 10<br>Lab 10 | Thursday, November 14 | **Dimensionality Reduction**<br><sub></sub> | slides<br>lab |
+| Lecture 11<br>Lab 11 | Tuesday, November 19 | **Dimensionality Reduction for Big Data**<br><sub></sub> | slides<br>lab |
+| Lecture 12<br>Lab 12 | Thursday, November 21 | **Model Selection**<br><sub></sub> | slides<br>lab |
 |                    | Tuesday, November 26 | **Thanksgiving Recess**<br> |  |
-|                    | Tuesday, November 28 | **Thanksgiving Recess**<br> |  |
+|                    | Thursday, November 28 | **Thanksgiving Recess**<br> |  |
 |                    | Tuesday, December 3 | **Final Project Presentation**<br> |  |
-|                    | Tuesday, December 5 | **Final Project Presentation**<br> |  |
+|                    | Thursday, December 5 | **Final Project Presentation**<br> |  |
 
 <!--| Lecture 7<br>Lab 7 |  | **Market Basket Analysis**<br><sub></sub> | slides<br>lab |-->
 
@@ -49,6 +45,7 @@ See ICON. (Iowa students only)
 [slide6-3]: https://docs.google.com/presentation/d/1rPfl8ZCjSRNOt0jmfWaXIwIWsqz6xoZWCTVSYCWfj2Y/edit?usp=sharing
 [slide7-1]: https://docs.google.com/presentation/d/1A_2DZATH3jLqYyFyKlg6FXtC3XQQj-roOTiLL7OEJbQ/edit?usp=sharing
 [slide7-2]: https://docs.google.com/presentation/d/17rMCXZ2_mYx_Ada-U4avGLPxCXopqxRrrBJ2rppB8nE/edit?usp=sharing
+[slide8-1]: https://docs.google.com/presentation/d/1hfdvNy619utKbU5SozwhuIfvKLH0Pu7yFu7VhBwFpss/edit?usp=sharing
 
 [lab1]: https://colab.research.google.com/github/stephenbaek/bigdata/blob/master/in-class-assignments/ica01/hello_world.ipynb
 [lab2]: https://colab.research.google.com/github/stephenbaek/bigdata/blob/master/in-class-assignments/ica02/How_to_Read_and_Represent_Data.ipynb
