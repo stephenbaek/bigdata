@@ -20,7 +20,7 @@ See ICON. (Iowa students only)
 |                    |                     | Final Project Assigned                |               |
 |                    | Tuesday, October 29 | **No Class**<br> |  |
 |                    | Thursday, October 31 | **No Class**<br> |  |
-| Lecture 8<br>Lab 8 | Tuesday, November 5<br>Thursday, November 7<br>Tuesday, November 12 | **Neural Networks**<br><sub>Introduction to neural networks<br>Backpropagation<br>Deep neural networks</sub> | [slides #1][slide8-1]<br>slides #2<br>lab |
+| Lecture 8<br>Lab 8 | Tuesday, November 5<br>Thursday, November 7<br>Tuesday, November 12 | **Neural Networks**<br><sub>Introduction to neural networks<br>Backpropagation<br>Deep neural networks</sub> | [slides #1][slide8-1]<br>[slides #2][slide8-2]<br>[lab][lab8] |
 | Lecture 9<br>Lab 9 | Thursday, November 14 | **Dimensionality Reduction**<br><sub></sub> | slides<br>lab |
 | Lecture 10<br>Lab 10 | Tuesday, November 19 | **Dimensionality Reduction for Big Data**<br><sub></sub> | slides<br>lab |
 | Lecture 11<br>Lab 11 | Thursday, November 21 | **Model Selection**<br><sub></sub> | slides<br>lab |
@@ -46,6 +46,7 @@ See ICON. (Iowa students only)
 [slide7-1]: https://docs.google.com/presentation/d/1A_2DZATH3jLqYyFyKlg6FXtC3XQQj-roOTiLL7OEJbQ/edit?usp=sharing
 [slide7-2]: https://docs.google.com/presentation/d/17rMCXZ2_mYx_Ada-U4avGLPxCXopqxRrrBJ2rppB8nE/edit?usp=sharing
 [slide8-1]: https://docs.google.com/presentation/d/1hfdvNy619utKbU5SozwhuIfvKLH0Pu7yFu7VhBwFpss/edit?usp=sharing
+[slide8-2]: https://docs.google.com/presentation/d/1BT3s_xM3AMDl3O2Bgc-PGya0aUmRgCZC8aiZqi32lc4/edit?usp=sharing
 
 [lab1]: https://colab.research.google.com/github/stephenbaek/bigdata/blob/master/in-class-assignments/ica01/hello_world.ipynb
 [lab2]: https://colab.research.google.com/github/stephenbaek/bigdata/blob/master/in-class-assignments/ica02/How_to_Read_and_Represent_Data.ipynb
@@ -55,3 +56,4 @@ See ICON. (Iowa students only)
 [lab6]: https://colab.research.google.com/github/stephenbaek/bigdata/blob/master/in-class-assignments/ica06/Distance_and_Similarity.ipynb
 [lab6-3]: https://colab.research.google.com/github/stephenbaek/bigdata/blob/master/in-class-assignments/ica06/Nystrom_Base.ipynb
 [lab7]: https://colab.research.google.com/github/stephenbaek/bigdata/blob/master/in-class-assignments/ica07/Cluster_Analysis.ipynb
+[lab8]: https://colab.research.google.com/github/stephenbaek/bigdata/blob/master/in-class-assignments/ica08/Neural_Networks.ipynb
