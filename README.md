@@ -22,7 +22,7 @@ See ICON. (Iowa students only)
 |                    | Thursday, October 31 | **No Class**<br> |  |
 | Lecture 8<br>Lab 8 | Tuesday, November 5<br>Thursday, November 7<br>Tuesday, November 12 | **Neural Networks**<br><sub>Introduction to neural networks<br>Backpropagation<br>Deep neural networks</sub> | [slides #1][slide8-1]<br>[slides #2][slide8-2]<br>[lab][lab8] |
 | Lecture 9<br>Lab 9 | Thursday, November 14<br>Tuesday, November 19 | **Dimensionality Reduction**<br><sub>Principal Component Analysis<br>Multi-dimensional Scaling<br>Isomap & LLE<br>t-SNE<br>Self Organizing Maps</sub> | [slides #1][slide9-1]<br>[slides #2][slide9-2]<br>~~lab~~ |
-| Lecture 10<br>Lab 10 | Thursday, November 21 | **Model Selection**<br><sub></sub> | slides<br>lab |
+| Lecture 10<br>Lab 10 | Thursday, November 21 | **Model Selection**<br><sub></sub> | [slides][slide10]<br>~~lab~~ |
 |                    | Tuesday, November 26 | **Thanksgiving Recess**<br> |  |
 |                    | Thursday, November 28 | **Thanksgiving Recess**<br> |  |
 |                    | Tuesday, December 3 | **Final Project Presentation**<br> |  |
@@ -48,6 +48,7 @@ See ICON. (Iowa students only)
 [slide8-2]: https://docs.google.com/presentation/d/1BT3s_xM3AMDl3O2Bgc-PGya0aUmRgCZC8aiZqi32lc4/edit?usp=sharing
 [slide9-1]: https://docs.google.com/presentation/d/1zW5yxw-mgMS8-M2J8s3BGlqqzjkK9BfeNi-EpG6S-yk/edit?usp=sharing
 [slide9-2]: https://docs.google.com/presentation/d/1NB78nc6cUykBAnDfgZqLfkO5sm1RLFz03LdCj1Y0rVs/edit?usp=sharing
+[slide10]: https://docs.google.com/presentation/d/1uGN_KIWrf59uZY1P8dz65OUwbrLcyKzh7XIdG6M1Jfw/edit?usp=sharing
 
 [lab1]: https://colab.research.google.com/github/stephenbaek/bigdata/blob/master/in-class-assignments/ica01/hello_world.ipynb
 [lab2]: https://colab.research.google.com/github/stephenbaek/bigdata/blob/master/in-class-assignments/ica02/How_to_Read_and_Represent_Data.ipynb
